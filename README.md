@@ -1,15 +1,8 @@
-
-
 # Hello there 👋
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mikoberlianto.mikoberlianto-visitor-badge)
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
 
 class TechTinker:
 
@@ -21,7 +14,6 @@ class TechTinker:
     def say_hi(self):
         print("Thanks for dropping by, hope it helps a lot.")
 
-
 me = TechTinker()
 me.say_hi()
 ```
@@ -31,6 +23,11 @@ me.say_hi()
 - Personal website and blog: https://koomikoo.github.io/
 
 <!---
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mikoberlianto.mikoberlianto-visitor-badge)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 - 👋 Hi, I’m @mikoberlianto
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

@@ -20,7 +20,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://koomikoo.github.io/
+- Personal website and blog: https://mikoberlianto.github.io/
 
 <!---
 
